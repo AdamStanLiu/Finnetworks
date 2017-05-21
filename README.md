@@ -1,4 +1,4 @@
-# Finnetworks
+# Financial Networks
 
 ## Project: Price Contagion in Bail-ins and Bail-outs Framework
 
